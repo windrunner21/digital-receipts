@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "339184301107",
+    "firebase_url": "https://e-receipts-5cb03.firebaseio.com",
+    "project_id": "e-receipts-5cb03",
+    "storage_bucket": "e-receipts-5cb03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339184301107:android:c7c591938c2b7e8bee9f46",
+        "android_client_info": {
+          "package_name": "com.example.digital_receipts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339184301107-mvn5ma1nvkj25f4lobj0eicjcmktbvlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgSZX0hE1FvqXGxo48um7vfh87Kh_VCyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339184301107-mvn5ma1nvkj25f4lobj0eicjcmktbvlf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339184301107-j4v1k0vj0tubcig35vobf6hh8jaq39b2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.digitalReceipts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

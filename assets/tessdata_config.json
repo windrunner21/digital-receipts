@@ -1,0 +1,15 @@
+{
+  "files": [
+    "aze.traineddata",
+    "eng.traineddata",
+    "financial.traineddata",
+    "fra.traineddata",
+    "ita.traineddata",
+    "lat.traineddata",
+    "OCRB.traineddata",
+    "pdf.ttf",
+    "rus.traineddata",
+    "spa.traineddata",
+    "tur.traineddata"
+  ]
+}
